@@ -1,0 +1,1 @@
+{"name":"Imgcenter","tagline":"让图片自适应宽高而不拉伸","body":"imgCenter\r\n=========\r\n\r\n让图片自适应宽高而不拉伸\r\n\r\n将本页中第一个图片自适应宽高而不拉伸\r\n\r\n```js\r\n  $img$();\r\n```","google":"","note":"Don't delete this file! It's used internally to help with page regeneration."}
