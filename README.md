@@ -3,6 +3,12 @@ imgCenter
 
 让图片自适应宽高而不拉伸
 
+### 1.1.7 修改
+
+```js
+  $img$.imgBolt(imgElement[, backgroundSize][, data-imgCenter]);
+```
+
 ### 1.1.6 新增接口
 
 ```js
